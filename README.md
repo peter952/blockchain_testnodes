@@ -80,6 +80,6 @@ This will open your account wallet inside MyCrypto.
 In the To Address box, type the account address from Node2, then fill in an arbitrary amount of ETH:
 Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.
 
-![](Screenshots/confirmation.PNG)
+
 
 
